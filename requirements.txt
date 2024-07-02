@@ -1,0 +1,8 @@
+aiocryptopay==0.3.6
+numpy==1.26.4
+Pillow==10.3.0
+python-telegram-bot==21.1.1
+redis==5.0.4
+Requests==2.31.0
+rq==1.16.2
+scipy==1.13.0
